@@ -19,3 +19,5 @@ Projeto desenvolvido para prática de análise financeira e construção de port
 
 👨‍💻 Autor
 Jonathan Silva dos Passos
+## 📷 Preview da Planilha
+![Preview da planilha](preview.png)
